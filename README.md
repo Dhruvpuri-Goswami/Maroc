@@ -1,10 +1,10 @@
-# Maroc-Env 🌐
+# Maroc 🌐
 
-Welcome to **Maroc-Env**, the GitHub repository for Maroc Nutrition Consulting's environment configurations. This repository includes essential scripts, configurations, and guidelines to help you set up your environment for developing the Maroc Nutrition Consulting application efficiently.
+Welcome to **Maroc**, the GitHub repository for Maroc Nutrition Consulting's environment configurations. This repository includes essential scripts, configurations, and guidelines to help you set up your environment for developing the Maroc Nutrition Consulting application efficiently.
 
 ## Getting Started 🚀
 
-Follow these steps to set up Maroc-Env on your local system.
+Follow these steps to set up Maroc on your local system.
 
 ### Prerequisites 🛠️
 
